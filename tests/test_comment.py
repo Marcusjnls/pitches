@@ -13,8 +13,6 @@ class TestPitch(unittest.TestCase):
     def tearDown(self):
         db.session.delete(self)
         User.query.commit()
-        # my_user = db.session.query(User).filter(self.user.id==1).first()
-        # db.session.delete(my_user)
 
     def test_instance(self):
         self.assertTrue(isinstance(self.new_comment,Comment))
