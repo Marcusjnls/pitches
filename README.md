@@ -1,6 +1,6 @@
-# [PitchR](https:///)
+# [PitchR](https://pitches-markozy.herokuapp.com/)
 
-## PitchR is a web application that is meant for users to add pitches on 7 different categories
+## PitchR is a web application that is meant for users to add pitches on different categories
 ### September 18th, 2019
 #### By **[Marcus Jean-Louis](https://github.com/marcusjnls)**
 
