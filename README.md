@@ -7,10 +7,10 @@
 ## Description
 The PitchR web application is meant for users to post pitches on any of the 7 different categories. These categories are:
 
-    1. Interview Pitch
-    2. Product Pitch
-    3. Promotion Pitch
-    4. Business
+    1. Interview Pitches
+    2. Product Pitches
+    3. Promotion Pitches
+    4. Business Pitches
     5. Academic
     6. Political
     7. Technology
